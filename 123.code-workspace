@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "path": "..\\les1"
+    },
+    {
+      "path": "..\\Homeworks\\HM1"
+    },
+    {
+      "path": "..\\les2"
+    },
+    {
+      "path": "..\\getStarted"
+    },
+    {
+      "path": "..\\Homeworks\\HM2\\HM2"
+    },
+    {
+      "path": "..\\les3"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\..\\..\\..\\..\\..\\Projects IT\\GoIT\\Day1"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HM2"
+  }
+}
